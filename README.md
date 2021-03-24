@@ -1,6 +1,9 @@
-## Stop detection algorithm with Movingpandas in GPS tracking data - Birds example
+## Stop detection in GPS tracks - Movingpandas & KeplerGl - point map with stop's duration in Bird migration tracking
 
-You can use the [editor on GitHub](https://github.com/bryanvallejo16/stop-detection-bird-tracking/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The final map animation can be found here: https://bryanvallejo16.github.io/stop-detection-bird-tracking/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Link to post and explanation: 
+
+## summarize of Medium post
+I have discover the power of Movingpandas in the last few months by analyzing movement data (GPS tracking data). This python library developed by Anita Graser contains algorithms that let manipulate movement data in a very handy way. The questions that brings out movement analysis is related to the travel behavior pattern and to find the reasons why the object tracked moves in specific ways. What really catch me and attracts me the most is the stop detection algorithm which finds sections in the trajectory where the object tracked has a specific duration (stop) in a specific search radio (i.e. neighborhood). In this point the ideas for using this algorithm can be flourished in example for urban applications in traffic analysis, in biology for breeding behavior, in geography for migration analysis, and you can find more. The key point is that as an analyst you have to keep well defined and justified parameters in time and search readio. The time will reveal the activity you may want to discover for example time spent in recreational centers and the search radio the size the neighborhood/city.
 
