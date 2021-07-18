@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/350853382.svg)](https://zenodo.org/badge/latestdoi/350853382)
 
-<a href="https://www.buymeacoffee.com/bryan.vallejo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 5px !important;width: 60px !important;" ></a>
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="bryan.vallejo" data-description="Support me on Buy me a coffee!" data-message="Thanks for your interest Geo-enthusiastic. You can support my work so I keep creating Geospatial tutorials." data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
 ## Stop detection in GPS tracks - Movingpandas & KeplerGl - point map with stop's duration in Bird migration tracking
 
