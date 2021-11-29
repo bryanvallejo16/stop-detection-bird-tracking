@@ -4,6 +4,6 @@
 
 ## [Tutorial on Towards Data Science](https://towardsdatascience.com/stop-detection-in-gps-tracks-movingpandas-keplergl-point-map-with-stops-duration-in-bird-664064b3ccbc)
 
-## [Web map Demo](https://bryanvallejo16.github.io/stop-detection-bird-tracking/)
+## [Web - Demo](https://bryanvallejo16.github.io/stop-detection-bird-tracking/)
 
 ![birds](gif/bird-tracking.gif)
